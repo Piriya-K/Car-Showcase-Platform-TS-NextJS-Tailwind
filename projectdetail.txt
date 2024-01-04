@@ -1,0 +1,12 @@
+Tools
+
+Feature
+1. Hero Section
+2. Search & Filter
+3. Server-Side Rendering
+4. Application Routes
+5. Chunk Data Handling & Display
+6. Optimizing Metadata and SEO
+7. Combobox
+8. Modal Elements
+9. Rapid API: A hub for APIs. Use "Cars by API-Ninjas" to get car information (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVBxdGJPT3pUZTh1RnVjRVNueEhOVjN2R1FhUXxBQ3Jtc0trM19BMTVSWk1Bb29EcVZ2Q3YwVVBHTmpGV2djS2dVOENMVmhTV2w4SE5mcXhmNTNwWDhEN1F2TEJFdHBUY1NtVFNCeE5lbUVHWWRUMmZGSDJURDlKR2IxRDdHT1h3SUhwNS15RkljZEhuQzBrXy1ORQ&q=https%3A%2F%2Frapidapi.com%2Fapininjas%2Fapi%2Fcars-by-api-ninjas%3Futm_source%3Dyoutube.com%2FJavaScriptMastery%26utm_medium%3Dreferral%26utm_campaign%3DDevRel&v=pUNSHPyVryU)

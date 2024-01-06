@@ -1,4 +1,11 @@
+https://www.youtube.com/watch?v=pUNSHPyVryU
+
 Tools
+1. NextJS 14
+2. TailwindCSS
+3. TypeScript
+3. HeadlessUI
+
 
 Feature
 1. Hero Section
